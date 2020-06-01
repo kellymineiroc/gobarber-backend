@@ -1,1 +1,1 @@
-Backend do projeto de aprendizagem desenvolvido no Curso Go Stack da Rocketseat.
+Backend do projeto de aprendizagem desenvolvido no Curso GoStack Bootcamp da Rocketseat.
